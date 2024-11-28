@@ -40,7 +40,7 @@ Step 2: Clone the Repository
 
 Download the project to your system:
 
-    git clone https://github.com/usv240/azure-image-analysis.git
+    git clone https://github.com/usv240//ITCS-6177-Final.git
     cd azure-image-analysis
 
 Step 3: Install Dependencies
